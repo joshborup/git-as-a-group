@@ -10,7 +10,7 @@ http://git-school.github.io/visualizing-git/
 
 -   git checkout -b login
 -   git checkout -b server
--   git checkout -b 'database
+-   git checkout -b database
 
 ## Part 2.) Commit
 
